@@ -1,0 +1,16 @@
+[
+  {
+    "id": 2,
+    "userId": 1,
+    "productId": 2,
+    "rating": 3.6,
+    "comment": "This didn't meet my expectations."
+  },
+  {
+    "id": 3,
+    "userId": 2,
+    "productId": 2,
+    "rating": 4,
+    "comment": "Not terrible but could use improvement."
+  }
+]
