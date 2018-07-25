@@ -63,7 +63,7 @@ public class ReviewsPactVerificationTest {
 	@Test
 	@PactVerification
 	public void verifyReviewsByProductIdPact() throws Exception {
-		List<Review> reviews = reviewsService.getByProductId(1);
+		List<Review> reviews = reviewsService.getByProductId(2);
 		assertEquals(2, reviews.size());
 	}
 
